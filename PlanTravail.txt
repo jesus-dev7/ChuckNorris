@@ -1,0 +1,4 @@
+Julien: Tableau, embed, liens des images
+Martin: Lier les pages, aider sur le CSS en cas de besoin, 
+Mathis: Faire le CSS sur un fichier relie aux pages auxiliaires HTML (CSS du home à faire sur la page HTML du home avec la balise style)
+Amadéo: Bootstrap (navbar et carousel), faire la structure des pages auxiliaires et du home
